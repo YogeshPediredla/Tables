@@ -1,0 +1,6 @@
+ProductID ,ProductionManagerEmployeeID,AssemblyLineNo. ,QuantityProductionTarget,QuantityProducedPerMonth
+31211,Abhinash,B1,120000,100000
+31222,Vicky,C1,300000,300000
+31233,Preeti,E1,200000,150000
+31244,Abhinav,D1,250000,300000
+31255,Kareena,C2,500000,500000

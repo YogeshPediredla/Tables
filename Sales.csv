@@ -1,0 +1,6 @@
+SalesManagerEmployeeID,DealerID,ProductID,OrderStauts,Units_Sold,DeliveryDate
+4565,12345,31211,Delivered ,50000,13 November 2021
+4566,12346,31222,Pending,10000,14 November 2021
+4567,12347,31233,Delivered ,20000,15 November 2021
+4568,12348,31244,Pending,30000,16 November 2021
+4569,12349,31255,Delivered ,250000,17 November 2021
